@@ -12,4 +12,4 @@ A blog about Front-End Technologies made using Bootstrap
 
 # Contact Page
 
-![2022-12-24 (7)](https://user-images.githubusercontent.com/108679567/209432165-5c811457-54b5-41a1-b25b-c9923851cf33.png)
+![2022-12-24 (7)](https://user-images.githubusercontent.com/108679567/209432202-78c4c4f8-343c-4233-a76d-d4e715c304f9.png)
