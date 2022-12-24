@@ -1,7 +1,7 @@
 # Blog
 A blog about Front-End Technologies made using Bootstrap
 
-#Home page
+# Home page
 
 ![2022-12-24](https://user-images.githubusercontent.com/108679567/209432095-0b7bb31f-c354-48ca-9041-d9035ec818ef.png)
 
