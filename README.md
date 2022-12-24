@@ -8,7 +8,8 @@ A blog about Front-End Technologies made using Bootstrap
 
 # Explore 
 
-![2022-12-24 (6)](https://user-images.githubusercontent.com/108679567/209432151-adec9dc2-4ed1-4b42-a2bb-3403dbd999d7.png)
+![2022-12-24 (8)](https://user-images.githubusercontent.com/108679567/209432255-b2096c67-7b49-4dcd-96df-eec5d313e998.png)
+
 
 # Contact Page
 
